@@ -16,9 +16,8 @@ Welcome to my GitHub profile. I'm a data scientist passionate about building and
 ## Tools & Technologies
 
 `Python` `TensorFlow` `Keras` `Pandas` `NumPy` `Matplotlib`  
-Currently exploring: `Gradio`, `Streamlit`, and `MLOps`
 
 
-Reach out on [LinkedIn](https://www.linkedin.com/in/your-link)  
+### Reach out on [LinkedIn](https://www.linkedin.com/in/your-link)  
 
 🐾 Thanks for stopping by!
