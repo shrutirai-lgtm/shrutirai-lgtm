@@ -4,7 +4,7 @@ Welcome to my GitHub profile. I'm a data scientist passionate about building and
 
 ## 🚀 Featured Projects
 
-- [Conversational AI Dog Chatbot using Streamlit + OpenRouter] https://github.com/shrutirai-lgtm/just-so-you-know-human
+- [Conversational AI Dog Chatbot using Streamlit + OpenRouter][https://github.com/shrutirai-lgtm/just-so-you-know-human]
   Personalized GPT-powered dog replies based on name, breed, personality, and photo.
 
 - [mnist-digit-classifier](https://github.com/shrutirai-lgtm/mnist-digit-classifier)  
